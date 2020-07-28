@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- FRENCH -->
+
+  <Apparel_FrenchLine.label>French Line Infantry Tunic</Apparel_FrenchLine.label>
+  <Apparel_FrenchLine.description>Standard uniform for French line infantry, designed to afford a level of comfort. Multiple layers absorb some level of blunt force, however sharp objects, including musket balls, have no trouble breaking through.</Apparel_FrenchLine.description>
+
+  <Apparel_FrenchLineBP.label>French Line Infantry Tunic - With Pack</Apparel_FrenchLineBP.label>
+  <Apparel_FrenchLineBP.description>Standard uniform for French line infantry, designed to afford a level of comfort. Backpack allows for storing of rations, bedroll, and other gear. Multiple layers absorb some level of blunt force, however sharp objects, including musket balls, have no trouble breaking through.</Apparel_FrenchLineBP.description>
+
+  <Apparel_FrenchLight.label>French Light Infantry Tunic</Apparel_FrenchLight.label>
+  <Apparel_FrenchLight.description>Standard uniform for French light infantry, designed to afford a level of comfort. Multiple layers absorb some level of blunt force, however sharp objects, including musket balls, have no trouble breaking through.</Apparel_FrenchLight.description>
+
+  <Apparel_FrenchLineShako.label>Shako</Apparel_FrenchLineShako.label>
+  <Apparel_FrenchLineShako.description>A soft, thick hat designed for French line infantry.</Apparel_FrenchLineShako.description>
+
+
+  <!-- BRITISH -->
+
+  <Apparel_BritishLineShako.label>Shako</Apparel_BritishLineShako.label>
+  <Apparel_BritishLineShako.description>A soft, thick hat designed for British line infantry.</Apparel_BritishLineShako.description>
+
+  <Apparel_BritishLine.label>British infantry uniform</Apparel_BritishLine.label>
+  <Apparel_BritishLine.description>Standard uniform for British line infantry, designed to afford a level of comfort. Multiple layers absorb some level of blunt force, however sharp objects, including musket balls, have no trouble breaking through.</Apparel_BritishLine.description>
+
+  <Apparel_BritishOfficer.label>British Officer uniform</Apparel_BritishOfficer.label>
+  <Apparel_BritishOfficer.description>British officer uniform, designed to afford a great level of comfort. Multiple layers absorb some level of blunt force, however sharp objects, including musket balls, have no trouble breaking through.</Apparel_BritishOfficer.description>
+
+
+  <!-- - CIVILIAN -->
+
+  <Apparel_CivilianMilitia.label>Civilian Tunic</Apparel_CivilianMilitia.label>
+  <Apparel_CivilianMilitia.description>Civilian clothing, designed in the same vein as French and British infantry, lacking a bit of the warmth but still sturdy.</Apparel_CivilianMilitia.description>
+
+  <Apparel_PrussianLandwehr.label>Prussian Landwehr Tunic - With Pack</Apparel_PrussianLandwehr.label>
+  <Apparel_PrussianLandwehr.description>Standard uniform for Prussian Landwehr, designed to afford a level of comfort. Backpack allows for storing of rations, bedroll, and other gear. Multiple layers absorb some level of blunt force, however sharp objects, including musket balls, have no trouble breaking through.</Apparel_PrussianLandwehr.description>
+
+  <Apparel_PrussianLandwehrHat.label>Landwehr Cap</Apparel_PrussianLandwehrHat.label>
+  <Apparel_PrussianLandwehrHat.description>A soft, thick hat designed for Prussian landwehr.</Apparel_PrussianLandwehrHat.description>
+
+
+</LanguageData>

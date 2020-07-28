@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FrenchLine.label>French Infantry - Line</FrenchLine.label>
+  <FrenchLine.labelPlural>French Infantry - Lines</FrenchLine.labelPlural>
+
+  <FrenchMilitia.label>French Infantry - Militia</FrenchMilitia.label>
+  <FrenchMilitia.labelPlural>French Infantry - Militias</FrenchMilitia.labelPlural>
+
+  <FrenchLight.label>French Infantry - Light</FrenchLight.label>
+  <FrenchLight.labelPlural>French Infantry - Lights</FrenchLight.labelPlural>
+
+  <FrenchCommand.label>French Colonel</FrenchCommand.label>
+  <FrenchCommand.labelPlural>French Colonels</FrenchCommand.labelPlural>
+
+  <BritishLine.label>British Infantry - Line</BritishLine.label>
+  <BritishLine.labelPlural>British Infantry - Lines</BritishLine.labelPlural>
+
+  <BritishLight.label>British Infantry - Light</BritishLight.label>
+  <BritishLight.labelPlural>British Infantry - Lights</BritishLight.labelPlural>
+
+  <BritishOfficer.label>British Infantry Officer</BritishOfficer.label>
+  <BritishOfficer.labelPlural>British Infantry Officers</BritishOfficer.labelPlural>
+
+  <BritishCommand.label>British Colonel</BritishCommand.label>
+  <BritishCommand.labelPlural>British Colonels</BritishCommand.labelPlural>
+
+  <PrussianLandwehr.label>Prussian Landwehr</PrussianLandwehr.label>
+  <PrussianLandwehr.labelPlural>Prussian Landwehrs</PrussianLandwehr.labelPlural>
+
+  <PrussianCommand.label>Prussian Colonel</PrussianCommand.label>
+  <PrussianCommand.labelPlural>Prussian Colonels</PrussianCommand.labelPlural>
+
+
+</LanguageData>

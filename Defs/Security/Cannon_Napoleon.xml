@@ -57,7 +57,7 @@
     <researchPrerequisites>
       <li>BritishEarlyTechnology</li>
     </researchPrerequisites>
-	<uiIconPath>Things/Britain/Cannon/4pdrGun_UI</uiIconPath>
+    <uiIconPath>Things/Britain/Cannon/4pdrGun_UI</uiIconPath>
   </ThingDef>
   <ThingDef ParentName="BaseArtilleryWeapon">
     <defName>Artillery_4pdr</defName>
