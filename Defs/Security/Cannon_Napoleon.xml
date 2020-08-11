@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  <ThingDef Name="BaseBritishArtilleryBuilding" ParentName="BuildingBase" Abstract="True">
+  <ThingDef ParentName="BuildingBase">
+    <defName>Artillery_4pdr</defName>
     <thingClass>Building_TurretGun</thingClass>
     <graphicData>
       <texPath>Things/Britain/Cannon/4pdrGunBase</texPath>
@@ -27,6 +28,10 @@
     <stuffCategories>
       <li>Metallic</li>
     </stuffCategories>
+    <costStuffCount>100</costStuffCount>
+    <costList>
+      <WoodLog>20</WoodLog>
+    </costList>
     <tickerType>Normal</tickerType>
     <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
     <designationCategory>Security</designationCategory>
@@ -41,11 +46,12 @@
       <Flammability>1.0</Flammability>
       <WorkToBuild>2700</WorkToBuild>
       <Beauty>-60</Beauty>
+      <Mass>30</Mass>
     </statBases>
     <building>
       <turretBurstWarmupTime>8.0</turretBurstWarmupTime>
       <turretBurstCooldownTime>28.0</turretBurstCooldownTime>
-      <turretGunDef>Artillery_4pdr</turretGunDef>
+      <turretGunDef>Artillery_4pdr_gun</turretGunDef>
       <buildingTags>
         <li>Artillery_BaseDestroyer</li>
         <li>Artillery_MannedMortar</li>
@@ -60,7 +66,7 @@
     <uiIconPath>Things/Britain/Cannon/4pdrGun_UI</uiIconPath>
   </ThingDef>
   <ThingDef ParentName="BaseArtilleryWeapon">
-    <defName>Artillery_4pdr</defName>
+    <defName>Artillery_4pdr_gun</defName>
     <label>4 pdr Cannon</label>
     <description>A 4 pdr cannon, designed to lob light explosive shells over a long distance.</description>
     <weaponTags>
@@ -86,6 +92,7 @@
     <graphicData>
       <texPath>Things/Britain/Cannon/4pdrGun</texPath>
       <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2, 2)</drawSize>
     </graphicData>
     <comps>
       <li>
