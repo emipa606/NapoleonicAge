@@ -3,6 +3,7 @@
   <ThingDef ParentName="BuildingBase">
     <defName>Artillery_4pdr</defName>
     <thingClass>Building_TurretGun</thingClass>
+    <label>4 pdr Cannon</label>
     <graphicData>
       <texPath>Things/Britain/Cannon/4pdrGunBase</texPath>
       <graphicClass>Graphic_Single</graphicClass>

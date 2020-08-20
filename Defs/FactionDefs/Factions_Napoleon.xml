@@ -84,6 +84,14 @@
           <FrenchCommand>1</FrenchCommand>
         </options>
       </li>
+      <li>
+        <kindDef>Peaceful</kindDef>
+        <options>
+          <FrenchLine>100</FrenchLine>
+          <FrenchMilitia>30</FrenchMilitia>
+          <FrenchLight>50</FrenchLight>
+        </options>
+      </li>
     </pawnGroupMakers>
     <allowedArrivalTemperatureRange>
       <min>-5</min>
@@ -175,6 +183,14 @@
           <BritishCommand>1</BritishCommand>
         </options>
       </li>
+      <li>
+        <kindDef>Peaceful</kindDef>
+        <options>
+          <BritishLine>100</BritishLine>
+          <BritishLight>25</BritishLight>
+          <BritishOfficer>5</BritishOfficer>
+        </options>
+      </li>
     </pawnGroupMakers>
     <allowedArrivalTemperatureRange>
       <min>-5</min>
@@ -258,6 +274,12 @@
         <options>
           <PrussianLandwehr>100</PrussianLandwehr>
           <PrussianCommand>1</PrussianCommand>
+        </options>
+      </li>
+      <li>
+        <kindDef>Peaceful</kindDef>
+        <options>
+          <PrussianLandwehr>100</PrussianLandwehr>
         </options>
       </li>
     </pawnGroupMakers>
