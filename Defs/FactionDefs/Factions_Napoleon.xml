@@ -57,6 +57,7 @@
           <FrenchLine>100</FrenchLine>
           <FrenchMilitia>30</FrenchMilitia>
           <FrenchLight>50</FrenchLight>
+          <FrenchCommand>1</FrenchCommand>
         </options>
       </li>
       <li>
@@ -90,6 +91,7 @@
           <FrenchLine>100</FrenchLine>
           <FrenchMilitia>30</FrenchMilitia>
           <FrenchLight>50</FrenchLight>
+          <FrenchCommand>1</FrenchCommand>
         </options>
       </li>
     </pawnGroupMakers>
@@ -156,6 +158,7 @@
           <BritishLine>100</BritishLine>
           <BritishLight>25</BritishLight>
           <BritishOfficer>5</BritishOfficer>
+          <BritishCommand>1</BritishCommand>
         </options>
       </li>
       <li>
@@ -189,6 +192,7 @@
           <BritishLine>100</BritishLine>
           <BritishLight>25</BritishLight>
           <BritishOfficer>5</BritishOfficer>
+          <BritishCommand>1</BritishCommand>
         </options>
       </li>
     </pawnGroupMakers>
@@ -253,6 +257,7 @@
         <kindDef>Combat</kindDef>
         <options>
           <PrussianLandwehr>100</PrussianLandwehr>
+          <PrussianCommand>1</PrussianCommand>
         </options>
       </li>
       <li>
@@ -280,6 +285,7 @@
         <kindDef>Peaceful</kindDef>
         <options>
           <PrussianLandwehr>100</PrussianLandwehr>
+          <PrussianCommand>1</PrussianCommand>
         </options>
       </li>
     </pawnGroupMakers>

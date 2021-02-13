@@ -5,8 +5,9 @@
     <thingClass>ThingWithComps</thingClass>
     <equipmentType>Primary</equipmentType>
     <pathCost>10</pathCost>
-    <useHitPoints>True</useHitPoints>
-    <selectable>True</selectable>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <smeltable>true</smeltable>
     <graphicData>
       <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
     </graphicData>
@@ -18,7 +19,7 @@
       <SellPriceFactor>0.5</SellPriceFactor>
     </statBases>
     <altitudeLayer>Item</altitudeLayer>
-    <alwaysHaulable>True</alwaysHaulable>
+    <alwaysHaulable>true</alwaysHaulable>
     <tickerType>Never</tickerType>
     <techLevel>Industrial</techLevel>
     <weaponTags>
@@ -56,17 +57,14 @@
       </recipeUsers>
       <unfinishedThingDef>UnfinishedGun</unfinishedThingDef>
     </recipeMaker>
-    <smeltProducts>
-      <Steel>20</Steel>
-    </smeltProducts>
   </ThingDef>
   <ThingDef Name="BaseNapoleonGunPR" Abstract="True">
     <category>Item</category>
     <thingClass>ThingWithComps</thingClass>
     <equipmentType>Primary</equipmentType>
     <pathCost>10</pathCost>
-    <useHitPoints>True</useHitPoints>
-    <selectable>True</selectable>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
     <graphicData>
       <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
     </graphicData>
@@ -78,7 +76,7 @@
       <SellPriceFactor>0.5</SellPriceFactor>
     </statBases>
     <altitudeLayer>Item</altitudeLayer>
-    <alwaysHaulable>True</alwaysHaulable>
+    <alwaysHaulable>true</alwaysHaulable>
     <tickerType>Never</tickerType>
     <techLevel>Industrial</techLevel>
     <weaponTags>
@@ -116,17 +114,14 @@
       </recipeUsers>
       <unfinishedThingDef>UnfinishedGun</unfinishedThingDef>
     </recipeMaker>
-    <smeltProducts>
-      <Steel>20</Steel>
-    </smeltProducts>
   </ThingDef>
   <ThingDef Name="BaseNapoleonGunBR" Abstract="True">
     <category>Item</category>
     <thingClass>ThingWithComps</thingClass>
     <equipmentType>Primary</equipmentType>
     <pathCost>10</pathCost>
-    <useHitPoints>True</useHitPoints>
-    <selectable>True</selectable>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
     <graphicData>
       <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
     </graphicData>
@@ -138,7 +133,7 @@
       <SellPriceFactor>0.5</SellPriceFactor>
     </statBases>
     <altitudeLayer>Item</altitudeLayer>
-    <alwaysHaulable>True</alwaysHaulable>
+    <alwaysHaulable>true</alwaysHaulable>
     <tickerType>Never</tickerType>
     <techLevel>Industrial</techLevel>
     <weaponTags>
@@ -175,17 +170,14 @@
       </recipeUsers>
       <unfinishedThingDef>UnfinishedGun</unfinishedThingDef>
     </recipeMaker>
-    <smeltProducts>
-      <Steel>20</Steel>
-    </smeltProducts>
   </ThingDef>
   <ThingDef Name="BaseNapoleonGunBRR" Abstract="True">
     <category>Item</category>
     <thingClass>ThingWithComps</thingClass>
     <equipmentType>Primary</equipmentType>
     <pathCost>10</pathCost>
-    <useHitPoints>True</useHitPoints>
-    <selectable>True</selectable>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
     <graphicData>
       <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
     </graphicData>
@@ -197,7 +189,7 @@
       <SellPriceFactor>0.5</SellPriceFactor>
     </statBases>
     <altitudeLayer>Item</altitudeLayer>
-    <alwaysHaulable>True</alwaysHaulable>
+    <alwaysHaulable>true</alwaysHaulable>
     <tickerType>Never</tickerType>
     <techLevel>Industrial</techLevel>
     <weaponTags>
@@ -233,17 +225,14 @@
       </recipeUsers>
       <unfinishedThingDef>UnfinishedGun</unfinishedThingDef>
     </recipeMaker>
-    <smeltProducts>
-      <Steel>20</Steel>
-    </smeltProducts>
   </ThingDef>
   <ThingDef Name="BaseNapoleonMeleeWeapon" Abstract="True">
     <category>Item</category>
     <thingClass>ThingWithComps</thingClass>
     <equipmentType>Primary</equipmentType>
     <pathCost>10</pathCost>
-    <useHitPoints>True</useHitPoints>
-    <selectable>True</selectable>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
     <graphicData>
       <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
     </graphicData>
@@ -255,7 +244,7 @@
       <SellPriceFactor>0.5</SellPriceFactor>
     </statBases>
     <altitudeLayer>Item</altitudeLayer>
-    <alwaysHaulable>True</alwaysHaulable>
+    <alwaysHaulable>true</alwaysHaulable>
     <tickerType>Never</tickerType>
     <techLevel>Industrial</techLevel>
     <weaponTags>
@@ -362,13 +351,6 @@
     <weaponTags>
       <li>FrenchInfantryMelee</li>
     </weaponTags>
-    <verbs>
-      <li>
-        <verbClass>Verb_MeleeAttack</verbClass>
-        <hasStandardCommand>true</hasStandardCommand>
-        <meleeDamageDef>Cut</meleeDamageDef>
-      </li>
-    </verbs>
   </ThingDef>
   <ThingDef ParentName="BaseNapoleonMeleeWeapon_Sharp">
     <defName>BritishOfficerSword</defName>

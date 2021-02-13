@@ -149,6 +149,7 @@
     <weaponTags>
       <li>FrenchLine</li>
     </weaponTags>
+    <factionLeader>true</factionLeader>
     <apparelIgnoreSeasons>true</apparelIgnoreSeasons>
     <apparelAllowHeadgearChance>0.0</apparelAllowHeadgearChance>
   </PawnKindDef>
@@ -301,6 +302,7 @@
     <weaponTags>
       <li>BritishOfficer</li>
     </weaponTags>
+    <factionLeader>true</factionLeader>
     <apparelIgnoreSeasons>true</apparelIgnoreSeasons>
     <apparelAllowHeadgearChance>0</apparelAllowHeadgearChance>
   </PawnKindDef>
@@ -378,6 +380,7 @@
       <li>PrussianLine</li>
       <li>PrussianMelee</li>
     </weaponTags>
+    <factionLeader>true</factionLeader>
     <apparelIgnoreSeasons>true</apparelIgnoreSeasons>
     <apparelAllowHeadgearChance>0.5</apparelAllowHeadgearChance>
   </PawnKindDef>
