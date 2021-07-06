@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ResearchTabDef>
+    <defName>NapoleonicEra</defName>
+    <label>Napoleonic Era</label>
+  </ResearchTabDef>
+  <ResearchProjectDef>
+    <defName>FrenchEarlyTechnology</defName>
+    <label>French Early Technology</label>
+    <techLevel>Industrial</techLevel>
+    <description>The first path down the French line of technology. Developments in functional line apparel, the Charleville musket, French infantry briquet. Further development down this line will result in cavalry technology and cannon technology.</description>
+    <baseCost>750</baseCost>
+    <tab>NapoleonicEra</tab>
+    <researchViewX>0</researchViewX>
+    <researchViewY>0</researchViewY>
+    <prerequisites>
+      <li>Smithing</li>
+    </prerequisites>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>BritishEarlyTechnology</defName>
+    <label>British Early Technology</label>
+    <techLevel>Industrial</techLevel>
+    <description>The first path down the British line of technology. Developments in functional line apparel, the Brown Bess musket and Baker Rifle. Further development down this line will result in cavalry technology and cannon technology.</description>
+    <baseCost>750</baseCost>
+    <tab>NapoleonicEra</tab>
+    <researchViewX>0</researchViewX>
+    <researchViewY>1</researchViewY>
+    <prerequisites>
+      <li>Smithing</li>
+    </prerequisites>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>PrussianEarlyTechnology</defName>
+    <label>Prussian Early Technology</label>
+    <techLevel>Industrial</techLevel>
+    <description>The first path down the Prussian line of technology. Developments include functional line apparel and the Potsdam 1809 model flintlock musket. Further development down this line will result in cavalry technology and cannon technology.</description>
+    <baseCost>750</baseCost>
+    <tab>NapoleonicEra</tab>
+    <researchViewX>0</researchViewX>
+    <researchViewY>2</researchViewY>
+    <prerequisites>
+      <li>Smithing</li>
+    </prerequisites>
+  </ResearchProjectDef>
+</Defs>
