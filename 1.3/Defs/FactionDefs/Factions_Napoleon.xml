@@ -6,6 +6,7 @@
     <description>A French outpost. Most outposts are assigned a regiment for garrison, and this regiment acts as both a defense and an offense in the case of attacking enemy factions.</description>
     <pawnsPlural>French</pawnsPlural>
     <requiredCountAtGameStart>1</requiredCountAtGameStart>
+    <maxConfigurableAtWorldCreation>1</maxConfigurableAtWorldCreation>
     <settlementGenerationWeight>.5</settlementGenerationWeight>
     <canSiege>true</canSiege>
     <factionIconPath>Things/France/Items/Home</factionIconPath>
@@ -99,6 +100,7 @@
     <description>A British outpost. Most outposts are assigned a regiment for garrison, and this regiment acts as both a defense and an offense in the case of attacking enemy factions.</description>
     <pawnsPlural>British</pawnsPlural>
     <requiredCountAtGameStart>1</requiredCountAtGameStart>
+    <maxConfigurableAtWorldCreation>1</maxConfigurableAtWorldCreation>
     <settlementGenerationWeight>.5</settlementGenerationWeight>
     <canSiege>true</canSiege>
     <factionIconPath>Things/Britain/Items/Home</factionIconPath>
@@ -192,6 +194,7 @@
     <description>A Prussian outpost. Most outposts are assigned a regiment for garrison, and this regiment acts as both a defense and an offense in the case of attacking enemy factions.</description>
     <pawnsPlural>Prussian</pawnsPlural>
     <requiredCountAtGameStart>1</requiredCountAtGameStart>
+    <maxConfigurableAtWorldCreation>1</maxConfigurableAtWorldCreation>
     <settlementGenerationWeight>.5</settlementGenerationWeight>
     <canSiege>true</canSiege>
     <factionIconPath>Things/Prussia/Items/Home</factionIconPath>
