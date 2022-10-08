@@ -1,6 +1,6 @@
 # NapoleonicAge
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of beans mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=790242814
@@ -9,22 +9,13 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=790242814
 - Added Royalty goodwill patch
 - Added faction leaders
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/NapoleonicAge]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
-Updated. Sorry for the delay, my wife&apos;s pregnant.
+Updated. Sorry for the delay, my wife's pregnant.
 
 
 This mod adds several factions from the Napoleonic era including France and Britain, as well as minor nations. Current features include France, Britain, Prussia, Line/Light infantry, Civilian militia clothing, weapons, and a 4pdr cannon.
@@ -40,7 +31,7 @@ https://ludeon.com/forums/index.php?topic=27158.0
 -http://steamcommunity.com/sharedfiles/filedetails/?id=793443438]WWII Wehrmacht - German Faction
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
