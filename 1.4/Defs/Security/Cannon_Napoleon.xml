@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  <ThingDef ParentName="BuildingBase">
+  <ThingDef ParentName="BaseArtilleryBuilding">
     <defName>Artillery_4pdr</defName>
     <thingClass>Building_TurretGun</thingClass>
     <label>4 pdr Cannon</label>
@@ -13,10 +13,8 @@
         <cornerTL>Damage/Corner</cornerTL>
       </damageData>
     </graphicData>
+    <drawerType>MapMeshAndRealTime</drawerType>
     <minifiedDef>MinifiedThing</minifiedDef>
-    <thingCategories>
-      <li>BuildingsSecurity</li>
-    </thingCategories>
     <altitudeLayer>Building</altitudeLayer>
     <hasInteractionCell>True</hasInteractionCell>
     <interactionCellOffset>(0,0,-1)</interactionCellOffset>

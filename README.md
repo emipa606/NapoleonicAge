@@ -45,3 +45,4 @@ https://ludeon.com/forums/index.php?topic=27158.0
 
 
 
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2052310880]Last updated 2023-01-16
