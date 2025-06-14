@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: 4 pdr Cannon -->
+  <Artillery_4pdr.label>4 pdr Cannon</Artillery_4pdr.label>
+  <!-- EN: 4 pdr Cannon -->
+  <Artillery_4pdr_gun.label>4 pdr Cannon</Artillery_4pdr_gun.label>
+  <!-- EN: A 4 pdr cannon, designed to lob light explosive shells over a long distance. -->
+  <Artillery_4pdr_gun.description>A 4 pdr cannon, designed to lob light explosive shells over a long distance.</Artillery_4pdr_gun.description>
+  <!-- EN: 4 pdr Cannon -->
+  <Artillery_4pdr_gun.verbs.Verb_Shoot.label>4 pdr Cannon</Artillery_4pdr_gun.verbs.Verb_Shoot.label>
+</LanguageData>

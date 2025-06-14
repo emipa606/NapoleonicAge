@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <RulePackDef>
     <defName>NamerFactionFrance</defName>
     <rulePack>
       <rulesStrings>
-        <li>name-&gt;71st Régiment d'Infanterie de Ligne</li>
-        <li>name-&gt;91st Régiment d'Infanterie de Ligne</li>
-        <li>name-&gt;17th Régiment d'Infanterie de Ligne</li>
-        <li>name-&gt;35th Régiment d'Infanterie de Ligne</li>
+        <li>name->71st Régiment d'Infanterie de Ligne</li>
+        <li>name->91st Régiment d'Infanterie de Ligne</li>
+        <li>name->17th Régiment d'Infanterie de Ligne</li>
+        <li>name->35th Régiment d'Infanterie de Ligne</li>
       </rulesStrings>
     </rulePack>
   </RulePackDef>
@@ -15,14 +15,14 @@
     <defName>NamerFactionBritain</defName>
     <rulePack>
       <rulesStrings>
-        <li>name-&gt;2nd Regiment of Foot</li>
-        <li>name-&gt;4th Regiment of Foot</li>
-        <li>name-&gt;26th Regiment of Foot</li>
-        <li>name-&gt;98th Regiment of Foot</li>
-        <li>name-&gt;84th Regiment of Foot</li>
-        <li>name-&gt;28th Regiment of Foot</li>
-        <li>name-&gt;52nd Regiment of Foot</li>
-        <li>name-&gt;98th Regiment of Foot</li>
+        <li>name->2nd Regiment of Foot</li>
+        <li>name->4th Regiment of Foot</li>
+        <li>name->26th Regiment of Foot</li>
+        <li>name->98th Regiment of Foot</li>
+        <li>name->84th Regiment of Foot</li>
+        <li>name->28th Regiment of Foot</li>
+        <li>name->52nd Regiment of Foot</li>
+        <li>name->98th Regiment of Foot</li>
       </rulesStrings>
     </rulePack>
   </RulePackDef>
@@ -30,14 +30,14 @@
     <defName>NamerFactionPrussia</defName>
     <rulePack>
       <rulesStrings>
-        <li>name-&gt;7. Infanterie-Brigade </li>
-        <li>name-&gt;15. Infanterie-Brigade </li>
-        <li>name-&gt;32. Infanterie-Brigade </li>
-        <li>name-&gt;11. Infanterie-Brigade </li>
-        <li>name-&gt;2. Infanterie-Brigade </li>
-        <li>name-&gt;18. Infanterie-Brigade </li>
-        <li>name-&gt;3. Infanterie-Brigade </li>
-        <li>name-&gt;54. Infanterie-Brigade </li>
+        <li>name->7. Infanterie-Brigade </li>
+        <li>name->15. Infanterie-Brigade </li>
+        <li>name->32. Infanterie-Brigade </li>
+        <li>name->11. Infanterie-Brigade </li>
+        <li>name->2. Infanterie-Brigade </li>
+        <li>name->18. Infanterie-Brigade </li>
+        <li>name->3. Infanterie-Brigade </li>
+        <li>name->54. Infanterie-Brigade </li>
       </rulesStrings>
     </rulePack>
   </RulePackDef>

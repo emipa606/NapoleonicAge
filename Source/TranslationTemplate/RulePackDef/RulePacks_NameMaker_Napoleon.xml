@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>name->2nd Regiment of Foot</li>
+    <li>name->4th Regiment of Foot</li>
+    <li>name->26th Regiment of Foot</li>
+    <li>name->98th Regiment of Foot</li>
+    <li>name->84th Regiment of Foot</li>
+    <li>name->28th Regiment of Foot</li>
+    <li>name->52nd Regiment of Foot</li>
+    <li>name->98th Regiment of Foot</li>
+  -->
+  <NamerFactionBritain.rulePack.rulesStrings>
+    <li>name->2nd Regiment of Foot</li>
+    <li>name->4th Regiment of Foot</li>
+    <li>name->26th Regiment of Foot</li>
+    <li>name->98th Regiment of Foot</li>
+    <li>name->84th Regiment of Foot</li>
+    <li>name->28th Regiment of Foot</li>
+    <li>name->52nd Regiment of Foot</li>
+    <li>name->98th Regiment of Foot</li>
+  </NamerFactionBritain.rulePack.rulesStrings>
+  <!-- EN:
+    <li>name->71st Régiment d'Infanterie de Ligne</li>
+    <li>name->91st Régiment d'Infanterie de Ligne</li>
+    <li>name->17th Régiment d'Infanterie de Ligne</li>
+    <li>name->35th Régiment d'Infanterie de Ligne</li>
+  -->
+  <NamerFactionFrance.rulePack.rulesStrings>
+    <li>name->71st Régiment d'Infanterie de Ligne</li>
+    <li>name->91st Régiment d'Infanterie de Ligne</li>
+    <li>name->17th Régiment d'Infanterie de Ligne</li>
+    <li>name->35th Régiment d'Infanterie de Ligne</li>
+  </NamerFactionFrance.rulePack.rulesStrings>
+  <!-- EN:
+    <li>name->7. Infanterie-Brigade </li>
+    <li>name->15. Infanterie-Brigade </li>
+    <li>name->32. Infanterie-Brigade </li>
+    <li>name->11. Infanterie-Brigade </li>
+    <li>name->2. Infanterie-Brigade </li>
+    <li>name->18. Infanterie-Brigade </li>
+    <li>name->3. Infanterie-Brigade </li>
+    <li>name->54. Infanterie-Brigade </li>
+  -->
+  <NamerFactionPrussia.rulePack.rulesStrings>
+    <li>name->7. Infanterie-Brigade </li>
+    <li>name->15. Infanterie-Brigade </li>
+    <li>name->32. Infanterie-Brigade </li>
+    <li>name->11. Infanterie-Brigade </li>
+    <li>name->2. Infanterie-Brigade </li>
+    <li>name->18. Infanterie-Brigade </li>
+    <li>name->3. Infanterie-Brigade </li>
+    <li>name->54. Infanterie-Brigade </li>
+  </NamerFactionPrussia.rulePack.rulesStrings>
+</LanguageData>

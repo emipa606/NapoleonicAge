@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: British Regiment -->
+  <Britain.label>British Regiment</Britain.label>
+  <!-- EN: A British outpost. Most outposts are assigned a regiment for garrison, and this regiment acts as both a defense and an offense in the case of attacking enemy factions. -->
+  <Britain.description>A British outpost. Most outposts are assigned a regiment for garrison, and this regiment acts as both a defense and an offense in the case of attacking enemy factions.</Britain.description>
+  <!-- EN: Colonel -->
+  <Britain.leaderTitle>Colonel</Britain.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Britain.messageDefendersAttacking>{0} from {1} are attacking your {2}.</Britain.messageDefendersAttacking>
+  <!-- EN: member -->
+  <Britain.pawnSingular>member</Britain.pawnSingular>
+  <!-- EN: British -->
+  <Britain.pawnsPlural>British</Britain.pawnsPlural>
+  <!-- EN: French Regiment -->
+  <France.label>French Regiment</France.label>
+  <!-- EN: A French outpost. Most outposts are assigned a regiment for garrison, and this regiment acts as both a defense and an offense in the case of attacking enemy factions. -->
+  <France.description>A French outpost. Most outposts are assigned a regiment for garrison, and this regiment acts as both a defense and an offense in the case of attacking enemy factions.</France.description>
+  <!-- EN: Colonel -->
+  <France.leaderTitle>Colonel</France.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <France.messageDefendersAttacking>{0} from {1} are attacking your {2}.</France.messageDefendersAttacking>
+  <!-- EN: member -->
+  <France.pawnSingular>member</France.pawnSingular>
+  <!-- EN: French -->
+  <France.pawnsPlural>French</France.pawnsPlural>
+  <!-- EN: Prussian Regiment -->
+  <Prussia.label>Prussian Regiment</Prussia.label>
+  <!-- EN: A Prussian outpost. Most outposts are assigned a regiment for garrison, and this regiment acts as both a defense and an offense in the case of attacking enemy factions. -->
+  <Prussia.description>A Prussian outpost. Most outposts are assigned a regiment for garrison, and this regiment acts as both a defense and an offense in the case of attacking enemy factions.</Prussia.description>
+  <!-- EN: Colonel -->
+  <Prussia.leaderTitle>Colonel</Prussia.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Prussia.messageDefendersAttacking>{0} from {1} are attacking your {2}.</Prussia.messageDefendersAttacking>
+  <!-- EN: member -->
+  <Prussia.pawnSingular>member</Prussia.pawnSingular>
+  <!-- EN: Prussian -->
+  <Prussia.pawnsPlural>Prussian</Prussia.pawnsPlural>
+</LanguageData>

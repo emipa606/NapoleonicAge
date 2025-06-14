@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: British Early Technology -->
+  <BritishEarlyTechnology.label>British Early Technology</BritishEarlyTechnology.label>
+  <!-- EN: The first path down the British line of technology. Developments in functional line apparel, the Brown Bess musket and Baker Rifle. Further development down this line will result in cavalry technology and cannon technology. -->
+  <BritishEarlyTechnology.description>The first path down the British line of technology. Developments in functional line apparel, the Brown Bess musket and Baker Rifle. Further development down this line will result in cavalry technology and cannon technology.</BritishEarlyTechnology.description>
+  <!-- EN: French Early Technology -->
+  <FrenchEarlyTechnology.label>French Early Technology</FrenchEarlyTechnology.label>
+  <!-- EN: The first path down the French line of technology. Developments in functional line apparel, the Charleville musket, French infantry briquet. Further development down this line will result in cavalry technology and cannon technology. -->
+  <FrenchEarlyTechnology.description>The first path down the French line of technology. Developments in functional line apparel, the Charleville musket, French infantry briquet. Further development down this line will result in cavalry technology and cannon technology.</FrenchEarlyTechnology.description>
+  <!-- EN: Prussian Early Technology -->
+  <PrussianEarlyTechnology.label>Prussian Early Technology</PrussianEarlyTechnology.label>
+  <!-- EN: The first path down the Prussian line of technology. Developments include functional line apparel and the Potsdam 1809 model flintlock musket. Further development down this line will result in cavalry technology and cannon technology. -->
+  <PrussianEarlyTechnology.description>The first path down the Prussian line of technology. Developments include functional line apparel and the Potsdam 1809 model flintlock musket. Further development down this line will result in cavalry technology and cannon technology.</PrussianEarlyTechnology.description>
+</LanguageData>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: British Colonel -->
+  <BritishCommand.label>British Colonel</BritishCommand.label>
+  <!-- EN: British Infantry - Light -->
+  <BritishLight.label>British Infantry - Light</BritishLight.label>
+  <!-- EN: British Infantry - Line -->
+  <BritishLine.label>British Infantry - Line</BritishLine.label>
+  <!-- EN: British Infantry Officer -->
+  <BritishOfficer.label>British Infantry Officer</BritishOfficer.label>
+  <!-- EN: French Colonel -->
+  <FrenchCommand.label>French Colonel</FrenchCommand.label>
+  <!-- EN: French Infantry - Light -->
+  <FrenchLight.label>French Infantry - Light</FrenchLight.label>
+  <!-- EN: French Infantry - Line -->
+  <FrenchLine.label>French Infantry - Line</FrenchLine.label>
+  <!-- EN: French Infantry - Militia -->
+  <FrenchMilitia.label>French Infantry - Militia</FrenchMilitia.label>
+  <!-- EN: Prussian Colonel -->
+  <PrussianCommand.label>Prussian Colonel</PrussianCommand.label>
+  <!-- EN: Prussian Landwehr -->
+  <PrussianLandwehr.label>Prussian Landwehr</PrussianLandwehr.label>
+</LanguageData>

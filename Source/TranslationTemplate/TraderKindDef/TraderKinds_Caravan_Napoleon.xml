@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bulk goods trader -->
+  <Caravan_Britain_BulkGoods.label>bulk goods trader</Caravan_Britain_BulkGoods.label>
+  <!-- EN: combat supplier -->
+  <Caravan_Britain_CombatSupplier.label>combat supplier</Caravan_Britain_CombatSupplier.label>
+  <!-- EN: bulk goods trader -->
+  <Caravan_France_BulkGoods.label>bulk goods trader</Caravan_France_BulkGoods.label>
+  <!-- EN: combat supplier -->
+  <Caravan_France_CombatSupplier.label>combat supplier</Caravan_France_CombatSupplier.label>
+  <!-- EN: bulk goods trader -->
+  <Caravan_Prussia_BulkGoods.label>bulk goods trader</Caravan_Prussia_BulkGoods.label>
+  <!-- EN: combat supplier -->
+  <Caravan_Prussia_CombatSupplier.label>combat supplier</Caravan_Prussia_CombatSupplier.label>
+</LanguageData>
